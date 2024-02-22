@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola, soy Nicolás Agüero 👋
 
-<!--
-**nicolasAguero99/nicolasAguero99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Mi nombre es Nicolás Agüero, tengo 20 años y vivo en Buenos Aires (CABA), Argentina
+Soy un apasionado desarrollador y diseñador web Full-Stack, especializado en front-end.
+Me recibí en Técnico Superior en Diseño y Programación Web en la [Escuela Da Vinci](https://davinci.edu.ar/carreras/desarrollo-web-y-mobile)
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Porfolio](https://nicolas-aguero-porfolio.vercel.app/)
+- [LinkedIn](https://github.com/nicolasAguero99)
+- [Gmail](mailto:aguero.nicolas2003@gmail.com)
+
+## Estadísticas de GitHub
+
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicolasAguero99&show_icons=true&hide_title=true&count_private=true)
+
+## Lenguajes de Programación
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasAguero99)
+
+¡Gracias por visitar mi perfil! 😄
