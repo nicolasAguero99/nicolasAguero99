@@ -18,7 +18,7 @@ Me recibí en Técnico Superior en Diseño y Programación Web en la [Escuela Da
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Node.js-339933?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-339933?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
