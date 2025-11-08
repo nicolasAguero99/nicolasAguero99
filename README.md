@@ -1,6 +1,6 @@
 # Hola, soy Nicolás Agüero 👋
 
-¡Bienvenido a mi perfil de GitHub! Mi nombre es Nicolás Agüero, tengo 21 años y vivo en Buenos Aires (CABA), Argentina
+¡Bienvenido a mi perfil de GitHub! Mi nombre es Nicolás Agüero, soy de Buenos Aires (CABA), Argentina
 Soy un apasionado desarrollador y diseñador web Full-Stack, especializado en front-end.
 Me recibí en Técnico Superior en Diseño y Programación Web en la [Escuela Da Vinci](https://davinci.edu.ar/carreras/desarrollo-web-y-mobile)
 
